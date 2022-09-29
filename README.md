@@ -6,8 +6,8 @@ This is my text under level 1. **This is for the Introduction to Software Techno
 
 Three things we want to cover are:
 1. How to use git.
-3. How to use markdown for READMEs and wiki
-4. How to use HTML and css for pages
+2. How to use markdown for READMEs and wiki
+3. How to use HTML and css for pages
 
 A few languages that we discuss for programming:
 - c/c++
@@ -15,7 +15,12 @@ A few languages that we discuss for programming:
 - Python
 - Julia
 
-
+Tables are also helpful
+|Syntax | Description |
+|-----------|-----------|
+| Row 1 | Value 1 |
+| Row 2 | Value 2 |
+| Row 3 | Value 3 |
 
 ## level 2 Heading
 
